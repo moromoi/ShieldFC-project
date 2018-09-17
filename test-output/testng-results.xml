@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="454" started-at="2018-09-17T12:00:54Z" finished-at="2018-09-17T12:00:55Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="454" started-at="2018-09-17T12:00:54Z" finished-at="2018-09-17T12:00:55Z">
+      <class name="com.shieldfc.SqlTest">
+        <test-method status="PASS" signature="firstTest()[pri:1, instance:com.shieldfc.SqlTest@58ceff1]" name="firstTest" duration-ms="345" started-at="2018-09-17T12:00:54Z" description="testing sql query for first test" finished-at="2018-09-17T12:00:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="secondTest()[pri:2, instance:com.shieldfc.SqlTest@58ceff1]" name="secondTest" duration-ms="0" started-at="2018-09-17T12:00:55Z" description="testing sql query for second test" finished-at="2018-09-17T12:00:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+        <test-method status="PASS" signature="thirdTest()[pri:3, instance:com.shieldfc.SqlTest@58ceff1]" name="thirdTest" duration-ms="15" started-at="2018-09-17T12:00:55Z" description="testing sql query for third test" finished-at="2018-09-17T12:00:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTest -->
+        <test-method status="PASS" signature="fourthTest()[pri:4, instance:com.shieldfc.SqlTest@58ceff1]" name="fourthTest" duration-ms="16" started-at="2018-09-17T12:00:55Z" description="testing sql query for fourth test" finished-at="2018-09-17T12:00:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fourthTest -->
+        <test-method status="PASS" signature="fifthTest()[pri:5, instance:com.shieldfc.SqlTest@58ceff1]" name="fifthTest" duration-ms="31" started-at="2018-09-17T12:00:55Z" description="testing sql query for fifth test" finished-at="2018-09-17T12:00:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fifthTest -->
+      </class> <!-- com.shieldfc.SqlTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
